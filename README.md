@@ -1,2 +1,2 @@
-# Cow-s-Driver-Updater
+# Cows-Driver-Updater
 Simple and free driver updater that lets u update any windows driver, and it isnt too complex, Linux and MacOS versions coming soon...
