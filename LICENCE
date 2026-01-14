@@ -1,0 +1,38 @@
+Cows Restricted Public License (CRPL-1.0)
+
+Copyright (c) <YEAR> <YOUR NAME>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated source code files (the "Software"), to
+view, study, and modify the Software, subject to the following conditions:
+
+1. PERMITTED USES
+   a) The Software may be used for personal, educational, or non-commercial purposes.
+   b) The Software may be modified for personal use.
+   c) Modifications may be submitted as contributions (pull requests or patches)
+      to the original repository owned by the copyright holder.
+
+2. RESTRICTIONS
+   a) Redistribution of the Software, in source or binary form, is NOT permitted.
+   b) Re-uploading, mirroring, or forking the Software to other repositories,
+      platforms, or websites is strictly prohibited.
+   c) Selling, sublicensing, or commercial use of the Software is prohibited.
+   d) Distribution of modified versions outside the original repository is prohibited.
+
+3. CONTRIBUTIONS
+   a) Any contributions submitted to the original repository grant the
+      copyright holder a perpetual, worldwide, royalty-free license to use,
+      modify, and relicense the contribution.
+   b) Contributors retain authorship of their original code.
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+   FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+   DEALINGS IN THE SOFTWARE.
+
+5. TERMINATION
+   Any violation of this License automatically terminates the rights granted herein.
